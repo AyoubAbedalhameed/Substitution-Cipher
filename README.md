@@ -1,2 +1,2 @@
 # Substitution-Cipher
-Concurrent TCP and UDP Client Server with Select and DNS (substitution cipher)
+Concurrent Client Server work on both TCP & UDP, with Select statmenst and DNS model, performs simple substitution cipher between two peers. 
